@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/77496624/157481364-f0a25a86-f0bd-46d2-9747-d345a93e6905.png) <h1 align="center">Hello 👋, I'm Guilherme Monteiro</h1>
-<h3 align="center">A backend developer from Brazil</h3> - 🔭 I’m currently working on <a href="https://mybees.com.br">🚀 Bees</a> with <b>Spring Boot</b>, <b>Java</b> and <b>Kotlin</b> <br>
+<h3 align="center">A backend developer from Brazil</h3> - 🔭 I’m currently working on <a href="https://picpay.com/pt-br/pf">💚 PicPay</a> with <b>Spring Boot</b>, <b>Java</b> and <b>Kotlin</b> <br>
 - 📫 How to reach me <strong>guilherme.montnezes@gmail.com</strong> <br>
 <br>
 <br>
